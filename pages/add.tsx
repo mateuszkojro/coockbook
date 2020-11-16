@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Add() {
     return (
         <>
             <h1>
-                Home page
+                Add recipe
             </h1>
         </>
     )
